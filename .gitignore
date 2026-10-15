@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+
+# Arquivos gerados/locais
+*.wav
+*.mp4
